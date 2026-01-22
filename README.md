@@ -2,8 +2,6 @@
 
 A modern, high-performance developer dashboard built with Next.js 15, React 19, and Tailwind CSS v4. This application provides a centralized view of your GitHub activity, project statistics, and system status with a premium, customizable UI.
 
-![Dashboard Preview](/public/og-image.png)
-
 ## 💡 Key Learnings & Concepts
 
 This project serves as a practical implementation of modern frontend engineering best practices.
